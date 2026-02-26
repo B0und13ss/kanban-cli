@@ -1,0 +1,4 @@
+# Ignore the entire CMake build output directory
+out/
+
+CMakePresets.json
