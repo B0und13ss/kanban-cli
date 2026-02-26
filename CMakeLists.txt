@@ -7,5 +7,5 @@ set(CMAKE_C_EXTENSIONS OFF)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
 
-add_executable(kanban-cli main.c)
+add_executable(kanban-cli src/main.c)
 
