@@ -1,0 +1,16 @@
+Roadmap:
+  Basic Task Tracker:
+    I want this to be able to store, new, completed, pending, and archived tasks,
+    with timestamps, and how long they took to complete.
+    [ ] Timestamp Creation
+    [ ] Task Storage Method
+      Thinking to just use a list?
+    [ ] Physical task storage
+      XML file storage
+    [ ] Command Line Interface
+      -l to list tasks
+      -c to create
+      -r to remove
+      -s to start
+  TUI:
+    [ ] IDEFK MAN
